@@ -35,5 +35,5 @@ class CreateDirectory:
 
 
 if __name__ == "__main__":
-    obj = CreateDirectory("Book1")
+    obj = CreateDirectory("Man's_Search_for_Meaning")
     obj.create_directory()
