@@ -1,18 +1,22 @@
 {
   "main": {
-    "id": "5f6e1a7496fd866f",
+    "id": "9f708af802e92253",
     "type": "split",
     "children": [
       {
-        "id": "1d6f368d9abd4598",
+        "id": "38f91d11bbb1a7a0",
         "type": "tabs",
         "children": [
           {
-            "id": "0acdaa799a8aac54",
+            "id": "1daf44fc6e2dd653",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "philosophy/Thinking Fast and Slow/Thinking Fast And Slow.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -21,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "8e0f09738c4562ef",
+    "id": "51b9693dd8a80e2d",
     "type": "split",
     "children": [
       {
-        "id": "c3cc0017f9aa7d79",
+        "id": "6eec2a24ee783fb4",
         "type": "tabs",
         "children": [
           {
-            "id": "a5d6966eb4fa6365",
+            "id": "4e363e166e49fda1",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +43,7 @@
             }
           },
           {
-            "id": "97654c4746d0cdeb",
+            "id": "93141a35b7ff4691",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +58,7 @@
             }
           },
           {
-            "id": "139f227ba6c0c32e",
+            "id": "c4a578904a24110f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -68,19 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "697a5a969873651b",
+    "id": "62613824806d250e",
     "type": "split",
     "children": [
       {
-        "id": "a390d2c52a873883",
+        "id": "ad7044f42e289909",
         "type": "tabs",
         "children": [
           {
-            "id": "5d47be3a44c6ab25",
+            "id": "b32cfe283ca2ce37",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "philosophy/Thinking Fast and Slow/Thinking Fast And Slow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,18 +97,19 @@
             }
           },
           {
-            "id": "51ea0a178d60be10",
+            "id": "ae4ba8eb71e14e05",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "philosophy/Thinking Fast and Slow/Thinking Fast And Slow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "2143b0ca816f2c99",
+            "id": "0ab00285b63658cc",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,11 +120,13 @@
             }
           },
           {
-            "id": "5f74f4469c76e1a7",
+            "id": "2c2c17c8dfe20edd",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "philosophy/Thinking Fast and Slow/Thinking Fast And Slow.md"
+              }
             }
           }
         ]
@@ -138,6 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0acdaa799a8aac54",
-  "lastOpenFiles": []
+  "active": "4e363e166e49fda1",
+  "lastOpenFiles": [
+    "philosophy/Thinking Fast and Slow",
+    "Untitled"
+  ]
 }
