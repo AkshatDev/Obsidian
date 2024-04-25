@@ -9,3 +9,4 @@ structure = {
     "Questions": ["_Questions.md"],
     "Final_thoughts": ["_Final_thoughts.md"],
 }
+genres = ["Philosophy", "Psychology", "Self_help", "Fiction", "Non_fiction"]

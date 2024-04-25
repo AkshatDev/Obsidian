@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "philosophy/Thinking Fast and Slow/Thinking Fast And Slow.md",
+                "file": "philosophy/Man's_Search_for_Meaning/Cross_references/Man's_Search_for_Meaning_Cross_references.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "philosophy/Thinking Fast and Slow/Thinking Fast And Slow.md",
+                "file": "philosophy/Man's_Search_for_Meaning/Cross_references/Man's_Search_for_Meaning_Cross_references.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "philosophy/Thinking Fast and Slow/Thinking Fast And Slow.md",
+                "file": "philosophy/Man's_Search_for_Meaning/Cross_references/Man's_Search_for_Meaning_Cross_references.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "philosophy/Thinking Fast and Slow/Thinking Fast And Slow.md"
+                "file": "philosophy/Man's_Search_for_Meaning/Cross_references/Man's_Search_for_Meaning_Cross_references.md"
               }
             }
           }
@@ -148,6 +148,9 @@
   },
   "active": "4e363e166e49fda1",
   "lastOpenFiles": [
+    "philosophy/Man's_Search_for_Meaning/Agreements/Man's_Search_for_Meaning_Agreements.md",
+    "README.md",
+    "philosophy/Thinking Fast and Slow/Thinking Fast And Slow.md",
     "philosophy/Thinking Fast and Slow",
     "Untitled"
   ]

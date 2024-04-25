@@ -2,16 +2,19 @@
 
 import os
 import sys
-from structures import structure
+from structures import structure, genres
 
 class CreateDirectory:
-    def __init__(self, book_name,path=None):
+    def __init__(self,genre, book_name,path=None):
         try:
-            self.book_name = book_name
             if not book_name:
                 raise Exception("Book name is required")
-            
+            if genre not in genres:
+                raise Exception("Invalid genre")
+            self.book_name = book_name
+            self.genre = genre
             self.path = path if path else os.getcwd()
+            self.path = os.path.join(self.path, self.genre)
             
             print(f'Will create directory at: {self.path}/{self.book_name}')
 
