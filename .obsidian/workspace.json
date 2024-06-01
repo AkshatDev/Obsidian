@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1daf44fc6e2dd653",
+            "id": "ea6ddf9b00baee0f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "philosophy/Man's_Search_for_Meaning/Cross_references/Man's_Search_for_Meaning_Cross_references.md",
+                "file": "Philosophy/Twilight_of_the_Idols/Daily_summary/Twilight_of_the_Idols_Summary.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "philosophy/Man's_Search_for_Meaning/Cross_references/Man's_Search_for_Meaning_Cross_references.md",
+                "file": "Philosophy/Twilight_of_the_Idols/Daily_summary/Twilight_of_the_Idols_Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "philosophy/Man's_Search_for_Meaning/Cross_references/Man's_Search_for_Meaning_Cross_references.md",
+                "file": "Philosophy/Twilight_of_the_Idols/Daily_summary/Twilight_of_the_Idols_Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "philosophy/Man's_Search_for_Meaning/Cross_references/Man's_Search_for_Meaning_Cross_references.md"
+                "file": "Philosophy/Twilight_of_the_Idols/Daily_summary/Twilight_of_the_Idols_Summary.md"
               }
             }
           }
@@ -146,12 +146,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4e363e166e49fda1",
+  "active": "ea6ddf9b00baee0f",
   "lastOpenFiles": [
-    "philosophy/Man's_Search_for_Meaning/Agreements/Man's_Search_for_Meaning_Agreements.md",
+    "Philosophy/Twilight_of_the_Idols/Daily_summary/Twilight_of_the_Idols_Summary.md",
+    "Philosophy/Man's_Search_for_Meaning/Overview/Man's_Search_for_Meaning_Metadata.md",
+    "Self_help/The_48_laws_of_power/Disagreements/The_48_laws_of_power_Disagreements.md",
     "README.md",
-    "philosophy/Thinking Fast and Slow/Thinking Fast And Slow.md",
-    "philosophy/Thinking Fast and Slow",
-    "Untitled"
+    "About God/A conversation with JP.md",
+    "Self_help/The_48_laws_of_power/Daily_summary/The_48_laws_of_power_Summary.md",
+    "Self_help/The_48_laws_of_power/Quotes/The_48_laws_of_power_Quotes.md",
+    "Self_help/The_48_laws_of_power/Questions/The_48_laws_of_power_Questions.md",
+    "Self_help/The_48_laws_of_power/Overview/The_48_laws_of_power_Metadata.md",
+    "Self_help/The_48_laws_of_power/Key_concepts/The_48_laws_of_power_Key_concepts.md",
+    "Self_help/The_48_laws_of_power/Final_thoughts/The_48_laws_of_power_Final_thoughts.md",
+    "Self_help/The_48_laws_of_power/Cross_references/The_48_laws_of_power_Cross_references.md",
+    "Self_help/The_48_laws_of_power/Agreements/The_48_laws_of_power_Agreements.md",
+    "Self_help/The_48_laws_of_power/Quotes",
+    "Self_help/The_48_laws_of_power/Questions",
+    "Self_help/The_48_laws_of_power/Overview",
+    "Self_help/The_48_laws_of_power/Key_concepts",
+    "Self_help/The_48_laws_of_power/Final_thoughts",
+    "Self_help/The_48_laws_of_power/Disagreements",
+    "Self_help/The_48_laws_of_power/Daily_summary",
+    "Self_help/The_48_laws_of_power/Cross_references",
+    "Self_help/The_48_laws_of_power/Agreements",
+    "Self_help/The_48_laws_of_power",
+    "Philosophy/Twilight_of_the_Idols/Agreements/Twilight_of_the_Idols_Agreements.md",
+    "philosophy/Man's_Search_for_Meaning/Agreements/Man's_Search_for_Meaning_Agreements.md",
+    "philosophy/Thinking Fast and Slow/Thinking Fast And Slow.md"
   ]
 }

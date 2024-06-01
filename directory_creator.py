@@ -38,5 +38,8 @@ class CreateDirectory:
 
 
 if __name__ == "__main__":
-    obj = CreateDirectory("Man's_Search_for_Meaning")
+    name, genre= None, None
+    name = input("Enter the name of the book: ")
+    genre = input("Enter the genre of the book: ")
+    obj = CreateDirectory(genre, name)
     obj.create_directory()
