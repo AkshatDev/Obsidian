@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophy/Twilight_of_the_Idols/Daily_summary/Twilight_of_the_Idols_Summary.md",
+                "file": "Self_help/The_48_laws_of_power/Final_thoughts/The_48_laws_of_power_Final_thoughts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d5265519356cda32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Self_help/The_48_laws_of_power/Daily_summary/The_48_laws_of_power_Summary.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophy/Twilight_of_the_Idols/Daily_summary/Twilight_of_the_Idols_Summary.md",
+                "file": "Self_help/The_48_laws_of_power/Final_thoughts/The_48_laws_of_power_Final_thoughts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophy/Twilight_of_the_Idols/Daily_summary/Twilight_of_the_Idols_Summary.md",
+                "file": "Self_help/The_48_laws_of_power/Final_thoughts/The_48_laws_of_power_Final_thoughts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Philosophy/Twilight_of_the_Idols/Daily_summary/Twilight_of_the_Idols_Summary.md"
+                "file": "Self_help/The_48_laws_of_power/Final_thoughts/The_48_laws_of_power_Final_thoughts.md"
               }
             }
           }
@@ -148,17 +160,17 @@
   },
   "active": "ea6ddf9b00baee0f",
   "lastOpenFiles": [
+    "Self_help/The_48_laws_of_power/Daily_summary/The_48_laws_of_power_Summary.md",
+    "Self_help/The_48_laws_of_power/Final_thoughts/The_48_laws_of_power_Final_thoughts.md",
+    "Self_help/The_48_laws_of_power/Key_concepts/The_48_laws_of_power_Key_concepts.md",
     "Philosophy/Twilight_of_the_Idols/Daily_summary/Twilight_of_the_Idols_Summary.md",
     "Philosophy/Man's_Search_for_Meaning/Overview/Man's_Search_for_Meaning_Metadata.md",
     "Self_help/The_48_laws_of_power/Disagreements/The_48_laws_of_power_Disagreements.md",
     "README.md",
     "About God/A conversation with JP.md",
-    "Self_help/The_48_laws_of_power/Daily_summary/The_48_laws_of_power_Summary.md",
     "Self_help/The_48_laws_of_power/Quotes/The_48_laws_of_power_Quotes.md",
     "Self_help/The_48_laws_of_power/Questions/The_48_laws_of_power_Questions.md",
     "Self_help/The_48_laws_of_power/Overview/The_48_laws_of_power_Metadata.md",
-    "Self_help/The_48_laws_of_power/Key_concepts/The_48_laws_of_power_Key_concepts.md",
-    "Self_help/The_48_laws_of_power/Final_thoughts/The_48_laws_of_power_Final_thoughts.md",
     "Self_help/The_48_laws_of_power/Cross_references/The_48_laws_of_power_Cross_references.md",
     "Self_help/The_48_laws_of_power/Agreements/The_48_laws_of_power_Agreements.md",
     "Self_help/The_48_laws_of_power/Quotes",
