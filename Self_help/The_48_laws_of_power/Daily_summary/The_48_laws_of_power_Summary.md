@@ -1,6 +1,6 @@
-# Daily_summary 18 May 2024 -
+## Daily_summary 18 May 2024 -
 
-**Rule 1. Never outshine the master**
+**Law 1. Never outshine the master**
 Always make sure those above you feel comfortably superior. In your desire to please and impress them, do not go too far in displaying your talents or you might accomplish the opposite - inspire fear and insecurity. Make your masters appear more brilliant than they are and you will attain heights of power.
 
 Remember these 2 things - 
@@ -13,9 +13,9 @@ If your superior is a falling star,  there is nothing to fear from outshining hi
 
 **Never put too much trust in friends, learn how to use enemies.**
 
-# Daily summary 19 May 2024 - 
+# Daily summary  2 Jun 2024 - 
 
-**Rule 2. Never put too much faith in friends, learn how to use enemies.**
+**Law 2. Never put too much faith in friends, learn how to use enemies.**
 Be wary of friends - they betray you more quickly for they are easily aroused to envy. They also become spoiled and tyrannical. But hire a former enemy and he will be more loyal than a friend, because he has more to prove. In fact, you have more to fear from friends than from enemies. If you have no enemies, find a way to make them.
 
 You often do not know your friends as well as you imagine. Friends often agree on things to avoid an argument.
@@ -26,3 +26,33 @@ A person who has something to prove will move mountains for you.
 Without enemies around us, we grow lazy. An enemy at our heels sharpens out wits, keeping us focused and alert.
 
 Use enemies to define your cause more clearly to the public, even framing it as a struggle of good and evil.
+
+# Daily summary  3 Jun 2024 -
+
+**Law 3. Part 1 Conceal your intentions**
+Keep people off-balance and in the dark by never revealing the purpose behind your actions. If they have no clue what you are up to, they cannot prepare a defense. Guide them far enough down the wrong path, envelop them in enough smoke, and by the time they realize your intentions, it will be too late.
+
+Use decoyed objects of desire and red herrings to throw people off the scent.
+
+**It takes effort to control you tongue and monitor what you reveal**
+By being unabashedly open you make yourself so predictable and familiar that it is almost impossible to respect or fear  you and power will not accrue to a person who cannot inspire such emotions
+
+We cannot go doubting the reality of what we see and hear - constantly imagining that appearances concealed something else would exhaust and terrift us. This fact makes it easy to conceal your intentions.
+
+**People tend to take sincerity for honesty.**
+
+Some people are good at taking others in confidence by revealing some apparent secret. The feigned confidence- a decoy- would then elicit a real confidence on the other person's part.
+
+**Part 2 Use smoke screens to disguise your actions.**
+
+Deception is always the best strategy, but the best deceptions require a screen of smoke to distract peoples attention from your real purpose. The bland exterior — like the unreadable poker face — is often the perfect smoke screen, hiding your intentions behind the comfortable and familiar. If you lead the sucker down a familiar path he won’t catch on when you lead him into a trap.
+
+**Paranoid and wary are often the easiest to deceive**
+
+Simplest for of smoke screen is facial expressions.
+
+One of the most effective smoke screens are noble gestures.
+
+Another effective smoke screen is pattern establishment of a series of actions that seduce the victim into thinking that you will continue in the same way.
+
+It is often unreadability that draws people closer to you and makes you appear a person of power.

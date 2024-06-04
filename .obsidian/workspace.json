@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self_help/The_48_laws_of_power/Final_thoughts/The_48_laws_of_power_Final_thoughts.md",
+                "file": "vocab.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Self_help/The_48_laws_of_power/Final_thoughts/The_48_laws_of_power_Final_thoughts.md",
+                "file": "vocab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Self_help/The_48_laws_of_power/Final_thoughts/The_48_laws_of_power_Final_thoughts.md",
+                "file": "vocab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Self_help/The_48_laws_of_power/Final_thoughts/The_48_laws_of_power_Final_thoughts.md"
+                "file": "vocab.md"
               }
             }
           }
@@ -161,6 +161,7 @@
   "active": "ea6ddf9b00baee0f",
   "lastOpenFiles": [
     "Self_help/The_48_laws_of_power/Daily_summary/The_48_laws_of_power_Summary.md",
+    "vocab.md",
     "Self_help/The_48_laws_of_power/Final_thoughts/The_48_laws_of_power_Final_thoughts.md",
     "Self_help/The_48_laws_of_power/Key_concepts/The_48_laws_of_power_Key_concepts.md",
     "Philosophy/Twilight_of_the_Idols/Daily_summary/Twilight_of_the_Idols_Summary.md",
