@@ -1,6 +1,4 @@
-# Daily_summary
-
-## 17 May 2024 -
+## Daily_summary 17 May 2024 -
 
 ### MAXIMS AND ARROWS
 
@@ -33,7 +31,7 @@ Having said these things, here are a few more points I'd like to make.
 
 **Adaptability**: In a rapidly changing world, it's also wise to remain somewhat adaptable, updating one's area of deep expertise as new information and technologies emerge. This ensures that one's deep knowledge remains relevant and practical.
 
-## 20 May 2024 -
+## ## Daily_summary 20 May 2024 -
 In our own wild nature we find the best recreation from our un-nature, from our spirituality.
 
 **Personal Summary** By engaging in more primal activities sometimes we can rejuvenate. We have come a long way from out primal selves , our wild nature. There are layers of culture, sophistication and socialism that we have developed over the years, on our wild primal nature. Sometimes it is the case that people try to find spirituality through giving up on different things that emit a sensation of satisfaction. It might be a good idea to sometimes engage in these primal activities like admiring nature, exploring simple yet complex and beautiful natural things around us to rejuvenate and not get burned out.
@@ -41,7 +39,7 @@ Value of simplicity -  Emphasizing  on the simplicity found in primal activities
 
 Modern world does aim at making our lives more comfortable and liveable but it also brings in a lot of stress and takes thickens the wall between us and our wild nature.
 
-## 29 May 2024 -
+## Daily_summary 29 May 2024 -
 
 **What? Is man merely a mistake of God's? Or God is merely a mistake of Man's?**
 
@@ -63,7 +61,9 @@ I partially agree with both halves. I think that there are higher powers and all
 
 One should also be careful about which battles to pick. This explanation does not by any chance mean that everything that happens around is a challenge and a battle to be fought.
 
-**Help yourself, then everyone will help you.**
+## Daily_summary 4 Jun 2024 -
+
+**Help yourself, then everyone will help you. Principle of brotherly love.**
 
 **Not to perpetrate cowardice against one's own acts! Not to leave them in the lurch afterwards! The bite of conscience is indecent.**
 
